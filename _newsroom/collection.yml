@@ -2,7 +2,7 @@ collections:
   newsroom:
     output: true
     order:
-      - Blog.md
-      - Media Kit.md
-      - Press Release.md
       - In the news.md
+      - Press Release.md
+      - Media Kit.md
+      - Blog.md
