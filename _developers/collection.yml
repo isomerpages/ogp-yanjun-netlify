@@ -2,5 +2,5 @@ collections:
   developers:
     output: true
     order:
-      - Product Status.md
       - Open Source.md
+      - Product Status.md
