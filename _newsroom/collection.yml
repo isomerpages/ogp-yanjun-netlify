@@ -2,5 +2,6 @@ collections:
   newsroom:
     output: true
     order:
+      - Media Kit.md
       - Press Release.md
       - In the news.md
