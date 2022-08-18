@@ -9,8 +9,7 @@ sections:
   - hero:
       title: We build tech for public good
       subtitle: Imagine a modern tech organisation solving problems for the benefit of
-        the public at large. That's what Open Government Products does.Hero
-        subtitle
+        the public at large. That's what Open Government Products does.
       background: /images/Header.jpg
       button: Learn More
       url: /about-us/
@@ -49,4 +48,3 @@ sections:
       image: /images/Work From Anywhere.jpg
       alt: Image alt text
 ---
-
