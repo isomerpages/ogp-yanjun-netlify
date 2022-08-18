@@ -13,7 +13,7 @@ sections:
         subtitle
       background: /images/Header.jpg
       button: Learn More
-      url: /contact-us/
+      url: /about-us/
   - infopic:
       title: Building for impact
       description: From digitalising parking, to getting a nation vaccinated against
