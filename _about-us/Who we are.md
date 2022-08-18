@@ -14,7 +14,7 @@ We experiment with new practices to create successful products and demonstrate t
 [Our Products](open.gov.sg)
 
 ### Hack For Public Good
-We encourage initiative in problem solving. That’s why we empower individuals to be creative in their approach to problem solving through our annual [Hack For Public Good](/hfpg/permalink). 70% of our products come from this month-long event where we generate new ideas for products, conduct user research and build prototypes.
+We encourage initiative in problem solving. That’s why we empower individuals to be creative in their approach to problem solving through our annual [Hack For Public Good](/hfpg/permalink) 70% of our products come from this month-long event where we generate new ideas for products, conduct user research and build prototypes.
 
 ### Our people, our strength.
 
