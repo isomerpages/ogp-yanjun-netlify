@@ -2,3 +2,11 @@ logo: /images/isomer-logo.svg
 links:
   - title: About Us
     collection: about-us
+  - title: Careers
+    collection: careers
+  - title: Products
+    collection: products
+  - title: Developers
+    collection: developers
+  - title: Newsroom
+    collection: newsroom
