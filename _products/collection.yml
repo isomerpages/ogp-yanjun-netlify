@@ -2,6 +2,6 @@ collections:
   products:
     output: true
     order:
-      - COVID 19.md
-      - Hack For Public Good.md
       - Our Products.md
+      - Hack For Public Good.md
+      - COVID 19.md
