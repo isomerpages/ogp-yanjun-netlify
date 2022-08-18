@@ -2,6 +2,6 @@ collections:
   careers:
     output: true
     order:
-      - "#HumansofOGP.md"
-      - Our Hiring Process.md
       - Open Positions.md
+      - Our Hiring Process.md
+      - "#HumansofOGP.md"
