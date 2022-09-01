@@ -1,9 +1,11 @@
 ---
 title: Open Source
-permalink: /opensource/permalink
+permalink: /opensource/permalink/
 description: ""
 ---
-We open source many of our tools in order for us to share and work together with developers around the world to tackle common challenges. We hope that by doing so, we can help others to improve public good around the world. 
+We open source many of our tools in order for us to share and work together with developers around the world to tackle common challenges. We hope that by doing so, we can help others to improve public good around the world.
+
+Find out more about how our products are built from our [Medium](https://medium.com/open-government-products) page. 
 
 ## Form
 **[Official Site](https://form.gov.sg )** | **[GitHub](https://github.com/opengovsg/FormSG)** | **[Contact](mailto:form@open.gov.sg)**
@@ -88,3 +90,6 @@ Key engineering features:
 **[GitHub](https://github.com/opengovsg/mockpass)**
 
 MockPass is a mock service for SingPass, CorpPass, MyInfo and sgID for local developer environments, allowing for development and integration without the need for connectivity to such services.
+
+## Keen to join us?
+Are you ready to work on solutions that solve actual problems for the community? Join us [here](https://opengovernmentproducts.recruitee.com/#section-89477).
