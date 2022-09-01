@@ -1,6 +1,6 @@
 ---
 title: Life@OGP
-permalink: /lifeatogp/permalink
+permalink: /lifeatogp/permalink/
 description: ""
 ---
 ### Work From Anywhere
@@ -22,4 +22,9 @@ Compensation is a right, not a privilege. We ensure that everyone in the team is
 We provide 360-degree feedback for everyone, ensuring that we improve and work towards being a consistently high-performing organisation.
 
 ### Socials and Learnings
-Not everything is about work.
+#### Not everything is about work.
+
+We go beyond work to get better at what we do. From biweekly "donuts" to encourage social interactions and synergy within a growing team to Open Learning Month and Learning Fridays, they fuel our ideas and capacity for maximum public good impact.
+
+### Keen to join us?
+Be part of the team that continuously builds products that impact millions of citizens and public officers' lives. Work on meaningful projects from communications to healthcare to fix actual problems in the community. Join us [here](https://opengovernmentproducts.recruitee.com/#section-89477).
