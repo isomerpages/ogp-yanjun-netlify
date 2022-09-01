@@ -92,4 +92,6 @@ Key engineering features:
 MockPass is a mock service for SingPass, CorpPass, MyInfo and sgID for local developer environments, allowing for development and integration without the need for connectivity to such services.
 
 ## Keen to join us?
-Are you ready to work on solutions that solve actual problems for the community? Join us [here](https://opengovernmentproducts.recruitee.com/#section-89477).
+Apart from engineering products, we are also dedicated to engineering an open work culture. Find out more about our work culture [here](https://ogp-yanjun-netlify-staging.netlify.app/lifeatogp/permalink).
+
+[Join us](https://opengovernmentproducts.recruitee.com/#section-89477) in building solutions for actual problems in the community.
